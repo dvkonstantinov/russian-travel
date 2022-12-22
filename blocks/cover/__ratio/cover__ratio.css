@@ -1,0 +1,8 @@
+.cover__ratio {
+  padding-top: 62.5%;
+  position: relative;
+  background: url(../../../images/cover-trains.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 0;
+}

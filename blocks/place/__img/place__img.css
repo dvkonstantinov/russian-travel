@@ -1,0 +1,11 @@
+.place__img {
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 767px) {
+  .place__img{
+    width: 100vw;
+    margin-left: -16px;
+    margin-right: -16px;
+  }
+}
