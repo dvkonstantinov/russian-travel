@@ -10,6 +10,9 @@
 - CSS
 - БЭМ (методология)
 
+## Работающий пример на github pages
+https://dvkonstantinov.github.io/russian-travel/index.html
+
 ## Автор
 dvkonstantinov
 telegram: https://t.me/Dvkonstantinov
